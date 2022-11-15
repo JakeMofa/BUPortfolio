@@ -62,7 +62,7 @@ $(document).ready(function () {
 
 
 //Project swiper
-let swiperProject = new Swiper('.project-container', {
+let swiperProjectt = new Swiper('.projectt-container', {
   cssMode: true,
   loop: true,
   navigation: {
